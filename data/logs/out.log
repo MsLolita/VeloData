@@ -1,0 +1,806 @@
+18:10:46.01 WARNING | autoreger:get_accounts:22 | No emails in path data\inputs\emails.txt!
+18:22:26.79 ERROR | zootools:logs_fail:68 | Failed nxl3wpzgg@gmail.com|0x161d8abea7e56c014b7638ab5f358b8372bbf97a|None
+18:22:26.79 ERROR | zootools:logs_fail:68 | Failed oqpjupec3nh1ee6en@gmail.com|0x8ffcc8276f69df6302034eb77ea51c9d1992c6f3|None
+18:22:26.81 ERROR | zootools:logs_fail:68 | Failed llxaok0vy63qibnq7@gmail.com|0xade03cc00cb4277478329c0c017a951b3ddd78f2|None
+18:22:26.81 ERROR | zootools:logs_fail:68 | Failed isqjrcnoic@gmail.com|0xcb1a5b6a34787d2cf53e25917a9072ce81871b2f|None
+18:22:26.87 ERROR | zootools:logs_fail:68 | Failed hy367grp0m@gmail.com|0xedcad0e95191e806677a4051e129cb50042d454a|None
+18:22:27.21 ERROR | zootools:logs_fail:68 | Failed f441rwsgqls4@gmail.com|0x5bae5519d215a1245120916ce0d29b998e967f3c|None
+18:22:27.23 ERROR | zootools:logs_fail:68 | Failed vmbuw7z0vt@gmail.com|0xb6ca5c6d96e249a9629da929335b6782d30edece|None
+18:22:27.24 ERROR | zootools:logs_fail:68 | Failed vla0cwrryw@gmail.com|0x80e8668dfc364f684451af469234ab7f362c2700|None
+18:22:27.25 ERROR | zootools:logs_fail:68 | Failed z7rgd7swc7b67@gmail.com|0x9dbc3b236f57be08bacb1ff9e0b38969f35112b4|None
+18:22:27.29 ERROR | zootools:logs_fail:68 | Failed r1azm1zh6aes@gmail.com|0xbea6eb16755b9d857fb2231fbd7048f418d33dca|None
+18:22:27.67 ERROR | zootools:logs_fail:68 | Failed uo78ddl5c6l6jc296@gmail.com|0x12bc82b0fc4925e43c94a4eedacdeecf8bc36bb4|None
+18:22:27.69 ERROR | zootools:logs_fail:68 | Failed h8p80bu8vneai649m@gmail.com|0x34ee6462900e7d4c5fa4b6e8ec016821220d6ff0|None
+18:22:27.69 ERROR | zootools:logs_fail:68 | Failed oxy2nzwvmeap09avy@gmail.com|0xbfaa8230e2e28bef295ab7a310b9bb359e5873a0|None
+18:22:27.72 ERROR | zootools:logs_fail:68 | Failed aaqd41smqjcqyn1@gmail.com|0x2604618e458f8ac15fc04460fe328c97f04098b3|None
+18:22:27.73 ERROR | zootools:logs_fail:68 | Failed re5c3pvgmg@gmail.com|0x0c2252323307ec2a454e708e5296488a52a0443b|None
+18:22:28.14 ERROR | zootools:logs_fail:68 | Failed m4qyozj1z9e6@gmail.com|0xdb2ee60ce2530250ccd7b37a217b13cd3c80e4ae|None
+18:22:28.16 ERROR | zootools:logs_fail:68 | Failed dpxiln19t3g9inj0@gmail.com|0x2d8188337c8172482163da8f6355cd21bf10daf1|None
+18:22:28.17 ERROR | zootools:logs_fail:68 | Failed mdkkv1yq667m7fo40@gmail.com|0x4375359d695ada799198d6770fe22467e27b9cd0|None
+18:22:28.17 WARNING | autoreger:start:62 | No accounts registered :(
+18:23:46.00 ERROR | zootools:logs_fail:68 | Failed dpxiln19t3g9inj0@gmail.com|0x2d8188337c8172482163da8f6355cd21bf10daf1|None
+18:23:46.00 WARNING | autoreger:start:62 | No accounts registered :(
+23:31:37.56 WARNING | autoreger:get_accounts:24 | Generate random emails!
+23:31:37.56 WARNING | autoreger:get_accounts:28 | Generate random wallets!
+23:32:11.87 WARNING | autoreger:get_accounts:24 | Generate random emails!
+23:32:11.87 WARNING | autoreger:get_accounts:28 | Generate random wallets!
+23:32:36.56 SUCCESS | zootools:logs:63 | Register fdx0bgg5zd5@gmail.com
+23:33:00.58 SUCCESS | zootools:logs:63 | Register ge60eyoi7nly4ygl@gmail.com
+23:33:24.55 SUCCESS | zootools:logs:63 | Register b9f5w1z7ecjx15ml1@gmail.com
+23:33:41.72 SUCCESS | zootools:logs:63 | Register fazrfts25ea@gmail.com
+23:33:53.65 SUCCESS | zootools:logs:63 | Register v18t7nodojvxr@gmail.com
+23:33:53.65 SUCCESS | autoreger:start:59 | Successfully registered 5 accounts :)
+23:37:59.74 INFO | autoreger:get_accounts:28 | Generated random wallets!
+23:38:11.73 SUCCESS | zootools:logs:63 | Register gk4amc3imc8ki@gmail.com
+23:38:18.05 SUCCESS | zootools:logs:63 | Register f3utexlwbkhnw0o@gmail.com
+23:38:29.62 SUCCESS | zootools:logs:63 | Register ofoxbhts9wiko@gmail.com
+23:38:29.62 SUCCESS | zootools:logs:63 | Register o19g1w7cdqxvv89e@gmail.com
+23:38:53.69 SUCCESS | zootools:logs:63 | Register cimlmh3ywv4@gmail.com
+23:38:53.69 SUCCESS | autoreger:start:59 | Successfully registered 5 accounts :)
+23:40:22.14 INFO | autoreger:get_accounts:28 | Generated random wallets!
+23:40:34.14 SUCCESS | zootools:logs:63 | Register duegr5cogujrb88s@gmail.com
+23:40:34.30 SUCCESS | zootools:logs:63 | Register pnr9nakpy2i2x5q@gmail.com
+23:40:45.66 SUCCESS | zootools:logs:63 | Register otsdyd0uwd9p@gmail.com
+23:40:45.73 SUCCESS | zootools:logs:63 | Register e934ngeim@gmail.com
+23:40:56.43 ERROR | zootools:logs_fail:68 | Failed m8xh7qdyz5xjpuzuk@gmail.com|0x88ee746D211287000902A823AfD5528239bD6539|None
+23:40:57.08 SUCCESS | zootools:logs:63 | Register hjl03587vaac54@gmail.com
+23:40:57.08 SUCCESS | autoreger:start:59 | Successfully registered 5 accounts :)
+23:50:34.35 INFO | autoreger:get_accounts:24 | Generated random emails!
+23:50:34.35 INFO | autoreger:get_accounts:28 | Generated random wallets!
+23:50:56.25 SUCCESS | zootools:logs:63 | Register jtus58oipmej@gmail.com
+23:50:56.34 SUCCESS | zootools:logs:63 | Register t4xfi80emx1@gmail.com
+23:50:56.41 SUCCESS | zootools:logs:63 | Register ue02zszxl0v@gmail.com
+23:50:56.52 SUCCESS | zootools:logs:63 | Register ltynjtlwu9@gmail.com
+23:51:02.41 SUCCESS | zootools:logs:63 | Register n5jhpex0v9fa@gmail.com
+23:51:02.53 SUCCESS | zootools:logs:63 | Register uad5qfwcdull6vntl@gmail.com
+23:51:02.54 SUCCESS | zootools:logs:63 | Register d2rk23nvs36x@gmail.com
+23:51:02.64 SUCCESS | zootools:logs:63 | Register twbxnwzum5@gmail.com
+23:51:08.14 ERROR | zootools:logs_fail:68 | Failed kl0ekza5n7amv67q@gmail.com|0xf65b9FF7821Ef3bD1B60bdBc7B570a5073b6F7A1|None
+23:51:08.26 SUCCESS | zootools:logs:63 | Register b10py8jjzaiy9uc@gmail.com
+23:51:08.78 SUCCESS | zootools:logs:63 | Register uwu7vxg333g@gmail.com
+23:51:13.41 ERROR | zootools:logs_fail:68 | Failed mbixm40liy@gmail.com|0x8C8619A4a45a0CdDE4D53B4593E387f6C7320b97|None
+23:51:19.03 ERROR | zootools:logs_fail:68 | Failed ymhcvz1n4acty47@gmail.com|0xa95A51ea10C2bD7dD904398c2942DAD4F66cb815|None
+23:51:19.41 ERROR | zootools:logs_fail:68 | Failed u9h6cgvclv3cafgl@gmail.com|0x032716Efa2A7Fbe18A0F38c4E5b3a658110a2765|None
+23:51:19.51 ERROR | zootools:logs_fail:68 | Failed wp1u974l8q6s0f@gmail.com|0xcc96b5552B745a2E5d19C8e8Fd1f57DbEB370a1C|None
+23:51:19.53 ERROR | zootools:logs_fail:68 | Failed qis2e9ngz7b@gmail.com|0xEfB20aBF0b2c20bBE1D62e85f7Cc1cc46c928dFb|None
+23:51:24.61 ERROR | zootools:logs_fail:68 | Failed s4ey5a94810rw@gmail.com|0xBCaF7f2B2880d6d9c2975a1ee09A95d8eecb893c|None
+23:51:25.57 ERROR | zootools:logs_fail:68 | Failed tmbmpu0ciikwjswk@gmail.com|0xc2b329B688A39E2E9331A1f67B93e8a3C1E3446a|None
+23:51:25.81 ERROR | zootools:logs_fail:68 | Failed g0es0ij6q@gmail.com|0xEf6DE15cf12B7D08baD4aFB7c237de1ed49f48b1|None
+23:51:25.82 ERROR | zootools:logs_fail:68 | Failed hvs7gl39ulz1g7jq@gmail.com|0x5b9ea74D41372B89E2b03984ffc93d0903e8f4c3|None
+23:51:26.18 ERROR | zootools:logs_fail:68 | Failed oy8ybfy6bh5ah1@gmail.com|0xBC2bFF18348Fc932fc9649a3B76Fff633df8e474|None
+23:51:30.51 ERROR | zootools:logs_fail:68 | Failed iz8t6tudv5wviqe@gmail.com|0x5d4B381F0eFB178013190901690B796128a0e049|None
+23:51:35.65 ERROR | zootools:logs_fail:68 | Failed ubdwadz3r@gmail.com|0x4e7854Fe18Fb601230A0412ACbB5dd5cEF148c83|None
+00:12:54.88 INFO | autoreger:get_accounts:24 | Generated random emails!
+00:12:54.89 INFO | autoreger:get_accounts:28 | Generated random wallets!
+00:14:42.00 INFO | autoreger:get_accounts:24 | Generated random emails!
+00:14:42.00 INFO | autoreger:get_accounts:28 | Generated random wallets!
+00:14:57.43 SUCCESS | zootools:logs:63 | Register vlkeupaka3q@gmail.com
+00:14:57.55 SUCCESS | zootools:logs:63 | Register wkmvm2bfkkpg86@gmail.com
+00:14:58.02 SUCCESS | zootools:logs:63 | Register ubd16hbo147j@gmail.com
+00:15:03.85 SUCCESS | zootools:logs:63 | Register vrwg8iiehp@gmail.com
+00:15:03.90 SUCCESS | zootools:logs:63 | Register x05e7nim5uoauuk@gmail.com
+00:15:04.03 SUCCESS | zootools:logs:63 | Register bsob80hlzzc8@gmail.com
+00:15:05.60 SUCCESS | zootools:logs:63 | Register p1xj2kr3az@gmail.com
+00:15:09.98 SUCCESS | zootools:logs:63 | Register y85jbi4b1jaeizei@gmail.com
+00:15:10.09 SUCCESS | zootools:logs:63 | Register kiz5u3jdgvyfur@gmail.com
+00:15:15.88 SUCCESS | zootools:logs:63 | Register jskh27nlc0bgz31rx@gmail.com
+00:15:17.17 SUCCESS | zootools:logs:63 | Register ftllni0mt0h20@gmail.com
+00:15:17.17 SUCCESS | zootools:logs:63 | Register p4gcslp7w8n0o76l1@gmail.com
+00:15:18.00 SUCCESS | zootools:logs:63 | Register f1dn96dti9y6u2361@gmail.com
+00:15:21.81 SUCCESS | zootools:logs:63 | Register fz8yazpv1rka@gmail.com
+00:15:21.81 SUCCESS | zootools:logs:63 | Register cjsp8u1cld3ebc@gmail.com
+00:15:22.36 SUCCESS | zootools:logs:63 | Register yipzshnwbfxkl@gmail.com
+00:15:22.40 SUCCESS | zootools:logs:63 | Register ar5bbj8zc0dkt498@gmail.com
+00:15:22.56 SUCCESS | zootools:logs:63 | Register sh1gc288kyjzfrc@gmail.com
+00:15:22.91 SUCCESS | zootools:logs:63 | Register dgekj0go41@gmail.com
+00:15:30.16 SUCCESS | zootools:logs:63 | Register zh1bramh0lfq5d6@gmail.com
+00:15:33.85 SUCCESS | zootools:logs:63 | Register c18qfstxkf88t79we@gmail.com
+00:15:34.61 SUCCESS | zootools:logs:63 | Register ofrj7gzh2dih2@gmail.com
+00:15:34.80 SUCCESS | zootools:logs:63 | Register nemd21fzvdschw6@gmail.com
+00:15:35.18 SUCCESS | zootools:logs:63 | Register e1cgsonuuu0sh8ku@gmail.com
+00:15:35.91 SUCCESS | zootools:logs:63 | Register wyvodoatzj@gmail.com
+00:15:41.01 SUCCESS | zootools:logs:63 | Register zd97pj36je@gmail.com
+00:15:41.29 SUCCESS | zootools:logs:63 | Register htxqwloxe10gk4@gmail.com
+00:15:46.25 SUCCESS | zootools:logs:63 | Register efhnm2vqbw93gky@gmail.com
+00:15:48.31 SUCCESS | zootools:logs:63 | Register mdca2ctsczqtx92@gmail.com
+00:15:52.09 SUCCESS | zootools:logs:63 | Register cfqy6etl268@gmail.com
+00:15:52.72 SUCCESS | zootools:logs:63 | Register f7v4ds7knwr@gmail.com
+00:15:53.72 SUCCESS | zootools:logs:63 | Register v9qiddfobqvamua@gmail.com
+00:15:54.09 SUCCESS | zootools:logs:63 | Register ilwu7slfm11zg@gmail.com
+00:15:58.26 SUCCESS | zootools:logs:63 | Register npu4h98n5i@gmail.com
+00:15:59.56 SUCCESS | zootools:logs:63 | Register hoczj0yyv0w@gmail.com
+00:16:00.41 SUCCESS | zootools:logs:63 | Register awo7afqsyuf@gmail.com
+00:16:03.96 SUCCESS | zootools:logs:63 | Register a1cwpcmsyrv8be@gmail.com
+00:16:05.49 SUCCESS | zootools:logs:63 | Register sfyocpjtkoxbgw@gmail.com
+00:16:06.59 SUCCESS | zootools:logs:63 | Register q83aq3jkjx2w@gmail.com
+00:16:10.59 SUCCESS | zootools:logs:63 | Register azvkbp83x44@gmail.com
+00:16:11.01 SUCCESS | zootools:logs:63 | Register z8b900ji28m@gmail.com
+00:16:12.15 SUCCESS | zootools:logs:63 | Register v73ycq0hbi8@gmail.com
+00:16:12.37 SUCCESS | zootools:logs:63 | Register zla2vly8h9@gmail.com
+00:18:26.89 INFO | autoreger:get_accounts:24 | Generated random emails!
+00:18:26.89 INFO | autoreger:get_accounts:28 | Generated random wallets!
+00:19:27.02 INFO | autoreger:get_accounts:24 | Generated random emails!
+00:19:27.02 INFO | autoreger:get_accounts:28 | Generated random wallets!
+00:19:41.77 SUCCESS | zootools:logs:63 | Register arhv6cuknpekicc7@gmail.com
+00:19:41.77 SUCCESS | zootools:logs:63 | Register o97e0b3krzn8ocu@gmail.com
+00:19:41.77 SUCCESS | zootools:logs:63 | Register nhw1zzsozh5ruvvm@gmail.com
+00:19:47.85 SUCCESS | zootools:logs:63 | Register te67yigvorixuoqdj@gmail.com
+00:19:47.94 SUCCESS | zootools:logs:63 | Register ptovsdrs3i@gmail.com
+00:19:48.77 SUCCESS | zootools:logs:63 | Register zone39ox4n532@gmail.com
+00:19:54.06 SUCCESS | zootools:logs:63 | Register ezvs445wz43@gmail.com
+00:19:54.20 SUCCESS | zootools:logs:63 | Register ud38oehzx@gmail.com
+00:19:54.27 SUCCESS | zootools:logs:63 | Register f8s9ffzzi9rl9mk4@gmail.com
+00:19:54.32 SUCCESS | zootools:logs:63 | Register cfic52fr86ypf@gmail.com
+00:19:54.55 SUCCESS | zootools:logs:63 | Register hhxorj0lxdx@gmail.com
+00:19:59.67 SUCCESS | zootools:logs:63 | Register zmqr3pd74j05krmw@gmail.com
+00:20:00.13 SUCCESS | zootools:logs:63 | Register f0kwsf1p5c55y0e2n@gmail.com
+00:20:00.72 SUCCESS | zootools:logs:63 | Register qj35z0vmcxwd@gmail.com
+00:20:05.89 SUCCESS | zootools:logs:63 | Register lsa899w55pa00i@gmail.com
+00:20:06.14 SUCCESS | zootools:logs:63 | Register ctqlq53jj@gmail.com
+00:20:06.44 SUCCESS | zootools:logs:63 | Register rvu4ipfiz8n@gmail.com
+00:20:12.38 SUCCESS | zootools:logs:63 | Register ghyuzqiu5b9v3a78@gmail.com
+00:20:12.63 SUCCESS | zootools:logs:63 | Register mlko2vxrpt@gmail.com
+00:20:17.79 SUCCESS | zootools:logs:63 | Register m1klqzd2hx9o@gmail.com
+00:20:17.94 SUCCESS | zootools:logs:63 | Register u7vdhy89ist@gmail.com
+00:20:18.52 SUCCESS | zootools:logs:63 | Register us7rasdly8@gmail.com
+00:20:18.61 SUCCESS | zootools:logs:63 | Register x3icr0e4a3ys@gmail.com
+00:20:18.80 SUCCESS | zootools:logs:63 | Register ixyjx8oww2t@gmail.com
+00:20:19.42 SUCCESS | zootools:logs:63 | Register xdar3j8s485aarpu@gmail.com
+00:20:26.34 SUCCESS | zootools:logs:63 | Register yh7yc5ttw813dqije@gmail.com
+00:20:26.35 SUCCESS | zootools:logs:63 | Register sne8byitv@gmail.com
+00:20:31.25 SUCCESS | zootools:logs:63 | Register fxektsc1k8nown9s5@gmail.com
+00:20:31.30 SUCCESS | zootools:logs:63 | Register e4hobs1vf1h1mp7mg@gmail.com
+00:20:36.06 SUCCESS | zootools:logs:63 | Register j9il52rf9d0zolk@gmail.com
+00:20:36.45 SUCCESS | zootools:logs:63 | Register ym83bib2b@gmail.com
+00:20:38.20 SUCCESS | zootools:logs:63 | Register zo3kghuw0@gmail.com
+00:20:38.20 SUCCESS | zootools:logs:63 | Register zrz751zkgktn938m@gmail.com
+00:20:38.58 SUCCESS | zootools:logs:63 | Register nifjbdyawwxl@gmail.com
+00:20:42.29 SUCCESS | zootools:logs:63 | Register sjel5n8pag@gmail.com
+00:20:42.66 SUCCESS | zootools:logs:63 | Register y4mrw0668hh3ve@gmail.com
+00:20:43.65 SUCCESS | zootools:logs:63 | Register jt0huajljrjkduxfz@gmail.com
+00:20:47.92 SUCCESS | zootools:logs:63 | Register xnenofmgy9iued@gmail.com
+00:20:48.29 SUCCESS | zootools:logs:63 | Register sktqch90w4av5@gmail.com
+00:20:49.25 SUCCESS | zootools:logs:63 | Register x79qhhxaixvb464bh@gmail.com
+00:20:50.37 SUCCESS | zootools:logs:63 | Register qgfl3voyly2q@gmail.com
+00:20:53.72 SUCCESS | zootools:logs:63 | Register i7ns1hl9flmd@gmail.com
+00:20:54.09 SUCCESS | zootools:logs:63 | Register ja6spd2nwhrsy@gmail.com
+00:20:56.43 SUCCESS | zootools:logs:63 | Register mwbxklf02ek88@gmail.com
+00:21:00.30 SUCCESS | zootools:logs:63 | Register n2sib2i5qql3wi9td@gmail.com
+00:21:00.54 SUCCESS | zootools:logs:63 | Register sci7cuj8z3n@gmail.com
+00:21:02.36 SUCCESS | zootools:logs:63 | Register cuejuw3gei3q@gmail.com
+00:21:06.64 SUCCESS | zootools:logs:63 | Register vlvqjj30rq1@gmail.com
+00:21:10.52 SUCCESS | zootools:logs:63 | Register xh9krffrosuqzf@gmail.com
+00:21:11.78 SUCCESS | zootools:logs:63 | Register we3ifj5atninv@gmail.com
+00:21:14.64 SUCCESS | zootools:logs:63 | Register ovw9jpleiuokx9@gmail.com
+00:21:15.36 SUCCESS | zootools:logs:63 | Register e5h5w4whdao9vd@gmail.com
+00:21:18.30 SUCCESS | zootools:logs:63 | Register olzq1aq2mtz2g6@gmail.com
+00:21:18.31 SUCCESS | zootools:logs:63 | Register fzaw61bjeewmvgn@gmail.com
+00:21:19.16 SUCCESS | zootools:logs:63 | Register kfy4bfe5fov8zzsp@gmail.com
+00:21:23.56 SUCCESS | zootools:logs:63 | Register xrxl5lf6c@gmail.com
+00:21:26.82 SUCCESS | zootools:logs:63 | Register k0qzkt84n6k@gmail.com
+00:21:28.99 SUCCESS | zootools:logs:63 | Register gblxr33p3ni9l@gmail.com
+00:21:30.09 SUCCESS | zootools:logs:63 | Register ih9oihzj0j6g@gmail.com
+00:21:30.61 SUCCESS | zootools:logs:63 | Register hkvgpguvn@gmail.com
+00:21:32.42 SUCCESS | zootools:logs:63 | Register gepjffbsnv4k@gmail.com
+00:21:35.47 SUCCESS | zootools:logs:63 | Register qm719hcaakvfy648h@gmail.com
+00:21:38.09 SUCCESS | zootools:logs:63 | Register ibugon6ry@gmail.com
+00:21:41.56 SUCCESS | zootools:logs:63 | Register eta4jm0y5pqcmg55x@gmail.com
+00:21:42.19 SUCCESS | zootools:logs:63 | Register jsak07vs86it@gmail.com
+00:21:47.44 SUCCESS | zootools:logs:63 | Register lzvrfw1s5l@gmail.com
+00:21:48.60 SUCCESS | zootools:logs:63 | Register mpkc416l8@gmail.com
+00:21:50.84 SUCCESS | zootools:logs:63 | Register n8brdqffzbj2v2@gmail.com
+09:46:19.30 INFO | autoreger:get_accounts:24 | Generated random emails!
+09:46:19.30 INFO | autoreger:get_accounts:28 | Generated random wallets!
+09:46:34.61 SUCCESS | zootools:logs:63 | Register w2i0p73zh27p@gmail.com
+09:46:58.18 SUCCESS | zootools:logs:63 | Register lvyuvyvgbmsq@gmail.com
+09:47:09.96 SUCCESS | zootools:logs:63 | Register lfrw2agbt9qspx@gmail.com
+09:47:21.31 SUCCESS | zootools:logs:63 | Register s9momv1pb@gmail.com
+09:47:38.76 SUCCESS | zootools:logs:63 | Register s6w3k7wt61akynl@gmail.com
+09:48:02.53 SUCCESS | zootools:logs:63 | Register gd7jlvdqajz@gmail.com
+09:48:20.03 SUCCESS | zootools:logs:63 | Register fve9jd70libh@gmail.com
+11:11:58.96 INFO | autoreger:get_accounts:24 | Generated random emails!
+11:11:58.97 INFO | autoreger:get_accounts:28 | Generated random wallets!
+11:12:39.29 SUCCESS | zootools:logs:63 | Register a7nq6uvzqf2joq3b@gmail.com
+11:13:09.26 SUCCESS | zootools:logs:63 | Register n0x97s6tud@gmail.com
+11:13:26.82 SUCCESS | zootools:logs:63 | Register xl3smppcxuv4wg3ix@gmail.com
+11:13:50.56 SUCCESS | zootools:logs:63 | Register kssprbasyr14@gmail.com
+11:14:08.25 SUCCESS | zootools:logs:63 | Register oj5g4wgi467a7j0@gmail.com
+11:14:54.40 SUCCESS | zootools:logs:63 | Register xrbg51r4zfnl740g@gmail.com
+11:15:12.69 SUCCESS | zootools:logs:63 | Register j5963m8bnmonun@gmail.com
+11:15:42.87 SUCCESS | zootools:logs:63 | Register qxl83mnau@gmail.com
+11:16:43.44 SUCCESS | zootools:logs:63 | Register nifqam13uwbtwln@gmail.com
+11:17:07.33 SUCCESS | zootools:logs:63 | Register cvigmmu1grcr6j0c@gmail.com
+11:21:15.08 INFO | autoreger:get_accounts:24 | Generated random emails!
+11:21:15.08 INFO | autoreger:get_accounts:28 | Generated random wallets!
+11:21:55.31 INFO | autoreger:get_accounts:24 | Generated random emails!
+11:21:55.31 INFO | autoreger:get_accounts:28 | Generated random wallets!
+11:22:10.88 ERROR | autoreger:register:71 | Error HTTPSConnectionPool(host='audience-consumer-api.zootools.co', port=443): Max retries exceeded with url: /v3/lists/bLFJhrGfkOoEQgt3I3LR/members (Caused by ProxyError('Unable to connect to proxy', NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000000093828D0>: Failed to resolve '1' ([Errno 11001] getaddrinfo failed)")))
+11:22:10.88 ERROR | zootools:logs_fail:68 | Failed xi2ulotxphmv7v@gmail.com 
+11:23:50.79 INFO | autoreger:get_accounts:24 | Generated random emails!
+11:23:50.79 INFO | autoreger:get_accounts:28 | Generated random wallets!
+11:23:55.07 ERROR | zootools:logs_fail:68 | Failed awmnp1fyr63skp@gmail.com {"statusCode":400,"error":"Bad Request","message":"Some of the parameters are invalid or missing"}
+11:23:55.48 ERROR | zootools:logs_fail:68 | Failed vk5sih6yl@gmail.com {"statusCode":400,"error":"Bad Request","message":"Some of the parameters are invalid or missing"}
+11:23:55.88 ERROR | zootools:logs_fail:68 | Failed zzmsn8s5vw5@gmail.com {"statusCode":400,"error":"Bad Request","message":"Some of the parameters are invalid or missing"}
+11:23:56.27 ERROR | zootools:logs_fail:68 | Failed dajl5epvhyo1oku7v@gmail.com {"statusCode":400,"error":"Bad Request","message":"Some of the parameters are invalid or missing"}
+11:23:56.69 ERROR | zootools:logs_fail:68 | Failed kelnv9u31kfc@gmail.com {"statusCode":400,"error":"Bad Request","message":"Some of the parameters are invalid or missing"}
+11:23:57.08 ERROR | zootools:logs_fail:68 | Failed vs1zlswyts3wu36y@gmail.com {"statusCode":400,"error":"Bad Request","message":"Some of the parameters are invalid or missing"}
+11:23:57.56 ERROR | zootools:logs_fail:68 | Failed y637vzzxkgip7pg1@gmail.com {"statusCode":400,"error":"Bad Request","message":"Some of the parameters are invalid or missing"}
+11:23:57.96 ERROR | zootools:logs_fail:68 | Failed h4bucmqni4c4j5@gmail.com {"statusCode":400,"error":"Bad Request","message":"Some of the parameters are invalid or missing"}
+11:23:58.39 ERROR | zootools:logs_fail:68 | Failed tcl519jmblhcc679b@gmail.com {"statusCode":400,"error":"Bad Request","message":"Some of the parameters are invalid or missing"}
+11:23:58.83 ERROR | zootools:logs_fail:68 | Failed ijwej3tz4@gmail.com {"statusCode":400,"error":"Bad Request","message":"Some of the parameters are invalid or missing"}
+11:23:59.24 ERROR | zootools:logs_fail:68 | Failed y47kmd7jltx@gmail.com {"statusCode":429,"error":"Too Many Requests","message":"too_many_requests"}
+11:23:59.64 ERROR | zootools:logs_fail:68 | Failed l8ptzkzwmrxgs1ql@gmail.com {"statusCode":429,"error":"Too Many Requests","message":"too_many_requests"}
+11:25:56.32 INFO | autoreger:get_accounts:24 | Generated random emails!
+11:25:56.33 INFO | autoreger:get_accounts:28 | Generated random wallets!
+11:26:00.25 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+11:26:00.51 ERROR | zootools:logs_fail:68 | Failed x6llh31e2@gmail.com {"statusCode":429,"error":"Too Many Requests","message":"too_many_requests"}
+11:26:00.66 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+11:26:00.92 ERROR | zootools:logs_fail:68 | Failed o1uwl4g8a2n1fv5st@gmail.com {"statusCode":429,"error":"Too Many Requests","message":"too_many_requests"}
+11:26:01.07 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+11:26:01.34 ERROR | zootools:logs_fail:68 | Failed zj79o1bguyvfz3@gmail.com {"statusCode":429,"error":"Too Many Requests","message":"too_many_requests"}
+11:26:01.49 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+11:54:51.96 INFO | autoreger:get_accounts:24 | Generated random emails!
+11:54:51.96 INFO | autoreger:get_accounts:28 | Generated random wallets!
+11:54:54.80 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+11:54:54.94 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+11:54:55.10 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+11:54:55.26 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+11:54:55.41 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+11:54:55.55 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+11:54:55.69 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+11:54:55.84 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+11:54:55.97 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+11:54:56.11 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+11:54:56.25 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+11:54:56.41 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+11:54:56.55 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:10:21.50 INFO | autoreger:get_accounts:24 | Generated random emails!
+13:10:21.50 INFO | autoreger:get_accounts:28 | Generated random wallets!
+13:10:35.13 SUCCESS | zootools:logs:63 | Register qdg1mjbu0o6@gmail.com
+13:10:52.56 SUCCESS | zootools:logs:63 | Register q87p210bqc0aa@gmail.com
+13:11:03.85 SUCCESS | zootools:logs:63 | Register em7l9tpbmy6lu@gmail.com
+13:11:21.48 SUCCESS | zootools:logs:63 | Register j75tsntdgbi@gmail.com
+13:11:31.95 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:32.11 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:32.27 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:32.43 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:32.59 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:32.74 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:32.90 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:33.06 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:33.21 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:33.36 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:33.51 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:33.67 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:33.81 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:33.97 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:34.12 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:34.27 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:34.43 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:34.59 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:34.73 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:34.89 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:35.04 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:35.20 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:35.35 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:35.51 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:35.67 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:35.83 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:35.98 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:36.13 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:36.28 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:36.44 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:36.60 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:36.75 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:36.90 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:37.05 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:37.19 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:37.35 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:37.52 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:37.67 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:37.82 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:37.96 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:38.13 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:38.28 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:38.42 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:38.57 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:38.72 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:38.89 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:39.05 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:39.20 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:39.35 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:39.50 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:39.64 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:39.80 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:39.95 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:40.10 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:40.25 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:40.41 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:40.56 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:40.70 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:40.87 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:41.03 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:41.18 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:41.33 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:41.49 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:41.63 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:41.78 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:41.93 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:42.07 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:42.22 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:42.37 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:42.51 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:42.70 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:42.87 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:43.02 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:43.19 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:43.35 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:43.49 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:43.66 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:43.80 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:43.95 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:44.12 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:44.27 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:44.42 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:44.57 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:44.72 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:45.14 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:45.30 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:45.46 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:45.61 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:45.76 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:45.92 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:46.07 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:46.24 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:46.40 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:46.55 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:46.70 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:46.86 ERROR | zootools:__bypass_turnstile_captcha:82 | Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:11:46.86 SUCCESS | autoreger:start:59 | Successfully registered 4 accounts :)
+13:12:50.89 INFO | autoreger:get_accounts:24 | Generated random emails!
+13:12:50.89 INFO | autoreger:get_accounts:28 | Generated random wallets!
+13:15:08.57 INFO | autoreger:get_accounts:24 | Generated random emails!
+13:15:08.58 INFO | autoreger:get_accounts:28 | Generated random wallets!
+13:17:30.68 INFO | autoreger:get_accounts:24 | Generated random emails!
+13:17:30.68 INFO | autoreger:get_accounts:28 | Generated random wallets!
+13:20:41.74 ERROR | zootools:__bypass_turnstile_captcha:82 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:23:51.04 ERROR | zootools:__bypass_turnstile_captcha:82 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:27:00.46 ERROR | zootools:__bypass_turnstile_captcha:82 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+13:30:09.84 ERROR | zootools:__bypass_turnstile_captcha:82 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+14:25:11.59 INFO | autoreger:get_accounts:24 | Generated random emails!
+14:25:11.59 INFO | autoreger:get_accounts:28 | Generated random wallets!
+14:25:33.06 SUCCESS | zootools:logs:63 | Register sa2mmhb62@gmail.com
+14:25:56.84 SUCCESS | zootools:logs:63 | Register a3smx3qz746c@gmail.com
+14:26:20.74 SUCCESS | zootools:logs:63 | Register j5dh9tbbidxy8r6c3@gmail.com
+14:26:32.15 SUCCESS | zootools:logs:63 | Register nc9tq3oyk7plyno@gmail.com
+14:26:49.92 SUCCESS | zootools:logs:63 | Register oq46g6rj67@gmail.com
+14:27:19.94 SUCCESS | zootools:logs:63 | Register zpr64vitu39bxkxen@gmail.com
+14:27:49.88 SUCCESS | zootools:logs:63 | Register zhnhw48sm8j@gmail.com
+14:28:01.39 SUCCESS | zootools:logs:63 | Register xd4rtp70mnvmo2o@gmail.com
+14:28:25.27 SUCCESS | zootools:logs:63 | Register h9rkj9isn@gmail.com
+14:30:06.16 SUCCESS | zootools:logs:63 | Register pnw9jv4nhwj@gmail.com
+14:30:23.08 ERROR | zootools:logs_fail:68 | Failed knapn64dft9@gmail.com {"statusCode":429,"error":"Too Many Requests","message":"too_many_requests"}
+14:30:59.41 SUCCESS | zootools:logs:63 | Register jzncr3wnxawg@gmail.com
+14:31:16.45 ERROR | zootools:logs_fail:68 | Failed rzsyprparuje4ty@gmail.com {"statusCode":429,"error":"Too Many Requests","message":"too_many_requests"}
+14:31:40.59 SUCCESS | zootools:logs:63 | Register fqg6nzojkk72@gmail.com
+14:32:16.76 SUCCESS | zootools:logs:63 | Register c3zpzqs21d6wwe9f@gmail.com
+14:32:51.41 SUCCESS | zootools:logs:63 | Register g98bbl2owpkp@gmail.com
+14:33:09.15 SUCCESS | zootools:logs:63 | Register tem2feqq0@gmail.com
+14:33:26.74 SUCCESS | zootools:logs:63 | Register fpkqfoij4mg0l7d6@gmail.com
+14:33:50.44 SUCCESS | zootools:logs:63 | Register fblpe92r3qi@gmail.com
+14:34:19.71 ERROR | zootools:logs_fail:68 | Failed dgdrg9jb5gud1k@gmail.com {"statusCode":429,"error":"Too Many Requests","message":"too_many_requests"}
+14:58:58.44 INFO | autoreger:get_accounts:24 | Generated random emails!
+14:58:58.44 INFO | autoreger:get_accounts:28 | Generated random wallets!
+14:59:32.77 SUCCESS | zootools:logs:63 | Register f545yl6mk0vgpobf@gmail.com
+14:59:56.39 SUCCESS | zootools:logs:63 | Register jqiicw3y0zeva@gmail.com
+15:00:23.25 INFO | autoreger:get_accounts:24 | Generated random emails!
+15:00:23.25 INFO | autoreger:get_accounts:28 | Generated random wallets!
+15:00:44.80 SUCCESS | zootools:logs:63 | Register lj1lj3i1pwa@gmail.com
+15:06:18.35 INFO | autoreger:get_accounts:24 | Generated random emails!
+15:06:18.35 INFO | autoreger:get_accounts:28 | Generated random wallets!
+15:06:22.45 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:22.59 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:22.75 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:22.89 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:23.03 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:23.17 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:23.34 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:23.48 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:23.63 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:23.80 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:23.94 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:24.09 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:24.23 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:24.38 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:24.54 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:24.68 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:24.83 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:24.97 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:25.12 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:25.27 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:25.41 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:25.58 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:25.72 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:25.87 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:26.02 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:26.18 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:26.32 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:26.47 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:26.61 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:26.75 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:26.89 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:27.03 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:27.18 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:27.33 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:27.47 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:27.62 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:27.77 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:27.92 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:28.06 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:28.20 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:28.35 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:28.49 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:28.64 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:28.78 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:28.92 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:29.07 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:29.23 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:29.37 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:29.54 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:29.68 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:29.83 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:29.99 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:30.17 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:30.32 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:30.46 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:30.60 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:30.75 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:30.89 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:31.04 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:31.19 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:31.33 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:31.47 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:31.62 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:31.76 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:31.91 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:32.05 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:32.20 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:32.34 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:32.49 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:32.63 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:32.78 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:32.92 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:33.06 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:33.22 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:33.36 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:33.51 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:33.65 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:33.83 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:33.98 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:34.13 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:34.28 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:34.42 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:34.56 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:34.71 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:34.86 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:35.02 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:35.16 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:35.31 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:35.45 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:35.60 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:35.74 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:35.88 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:36.03 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:36.22 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:36.36 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:36.55 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:36.71 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:36.88 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:37.03 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:37.19 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+15:06:37.19 WARNING | autoreger:start:61 | No accounts registered :(
+15:07:26.51 INFO | autoreger:get_accounts:24 | Generated random emails!
+15:07:26.51 INFO | autoreger:get_accounts:28 | Generated random wallets!
+15:10:39.42 ERROR | zootools:__bypass_turnstile_captcha:83 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+20:31:00.35 INFO | autoreger:get_accounts:24 | Generated random emails!
+20:31:00.36 INFO | autoreger:get_accounts:28 | Generated random wallets!
+20:31:16.54 SUCCESS | zootools:logs:64 | Register zm02nc53p@gmail.com
+11:51:24.96 INFO | autoreger:get_accounts:24 | Generated random emails!
+11:51:24.96 INFO | autoreger:get_accounts:28 | Generated random wallets!
+11:53:17.84 INFO | autoreger:get_accounts:26 | Generated random emails!
+11:53:17.84 WARNING | autoreger:start:58 | No accounts registered :(
+17:19:28.98 ERROR | utils.mailUtils:get_msg:26 | ['gibbs.fanny954@hotmail.com'] | Unexpected error when getting code: [Errno 11001] getaddrinfo failed
+17:19:28.98 ERROR | autoreger:register:73 | Error 'dict' object has no attribute 'split'
+17:19:28.98 ERROR | velodata:logs_fail:91 | Failed ['gibbs.fanny954@hotmail.com'] 
+17:20:58.46 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:20:58.60 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:20:58.75 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:20:58.90 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:20:59.05 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:20:59.20 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:20:59.35 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:20:59.49 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:20:59.64 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:22:17.36 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:22:17.51 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:22:17.66 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:22:17.82 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:22:17.98 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:22:18.13 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:22:18.29 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:22:18.44 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:22:18.60 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:22:18.60 WARNING | autoreger:start:58 | No accounts registered :(
+17:22:54.02 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:22:54.17 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:22:54.32 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:22:54.48 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:22:54.63 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:22:54.79 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:22:54.95 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:22:55.11 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:22:55.25 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:22:55.25 WARNING | autoreger:start:58 | No accounts registered :(
+17:23:18.16 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:23:18.31 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:23:18.46 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:23:18.62 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:23:18.77 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:23:18.93 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:23:19.07 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:23:19.23 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:23:19.38 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:23:19.38 WARNING | autoreger:start:58 | No accounts registered :(
+17:23:22.18 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:23:22.34 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:23:22.48 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:23:22.63 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:23:22.78 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:23:22.94 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:23:23.10 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:23:23.24 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:23:23.39 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:23:23.39 WARNING | autoreger:start:58 | No accounts registered :(
+17:24:46.47 ERROR | utils.mailUtils:get_msg:26 | ['d_lowenthal01@hotmail.com', '2001DEANDRA'] | Unexpected error when getting code: [Errno 11001] getaddrinfo failed
+17:24:46.47 ERROR | autoreger:register:73 | Error 'dict' object has no attribute 'split'
+17:24:46.47 ERROR | velodata:logs_fail:91 | Failed ['d_lowenthal01@hotmail.com', '2001DEANDRA'] 
+17:26:54.02 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:26:54.03 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:26:54.03 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:26:54.03 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:26:54.03 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:26:54.04 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:26:54.04 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:26:54.04 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:26:54.04 ERROR | velodata:__bypass_turnstile_captcha:105 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:26:54.04 WARNING | autoreger:start:58 | No accounts registered :(
+17:34:48.81 ERROR | utils.mailUtils:get_msg:26 | d_lowenthal01@hotmail.com | Unexpected error when getting code: [WinError 10061] No connection could be made because the target machine actively refused it
+17:34:48.81 ERROR | autoreger:register:73 | Error 'dict' object has no attribute 'split'
+17:34:48.81 ERROR | velodata:logs_fail:91 | Failed d_lowenthal01@hotmail.com 
+17:35:43.00 ERROR | utils.mailUtils:get_msg:26 | keeblevernia@hotmail.com | Unexpected error when getting code: [Errno 11001] getaddrinfo failed
+17:35:43.00 ERROR | autoreger:register:73 | Error 'dict' object has no attribute 'split'
+17:35:43.00 ERROR | velodata:logs_fail:91 | Failed keeblevernia@hotmail.com 
+17:38:32.04 ERROR | autoreger:register:73 | Error 'dict' object has no attribute 'split'
+17:38:32.04 ERROR | velodata:logs_fail:91 | Failed keeblevernia@hotmail.com 
+17:38:47.69 ERROR | autoreger:register:73 | Error 'dict' object has no attribute 'split'
+17:38:47.69 ERROR | velodata:logs_fail:91 | Failed beverley.marmo.609@hotmail.com 
+17:41:51.62 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No code received
+17:43:09.18 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No code received
+17:43:12.88 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No code received
+17:43:16.58 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No code received
+17:43:20.30 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No code received
+17:43:23.98 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No code received
+17:43:27.64 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No code received
+17:43:31.35 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No code received
+17:43:35.08 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No code received
+17:43:38.78 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No code received
+17:43:42.54 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No code received
+17:43:46.24 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No code received
+17:43:49.99 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No code received
+17:43:53.72 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No code received
+17:43:57.40 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No code received
+17:44:01.08 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No code received
+17:44:04.83 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No code received
+17:44:08.51 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No code received
+17:44:12.15 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No code received
+17:44:15.70 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No code received
+17:44:19.25 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No code received
+17:46:55.60 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No message received
+17:46:59.30 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No message received
+17:47:02.97 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No message received
+17:47:06.72 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No message received
+17:47:10.41 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No message received
+17:47:14.11 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No message received
+17:47:17.85 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No message received
+17:47:21.53 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No message received
+17:47:25.22 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No message received
+17:47:28.93 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No message received
+17:47:32.63 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No message received
+17:47:36.33 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No message received
+17:47:40.05 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No message received
+17:47:43.87 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No message received
+17:47:47.55 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No message received
+17:47:51.26 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No message received
+17:47:54.94 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No message received
+17:47:58.77 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No message received
+17:48:02.49 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No message received
+17:48:06.16 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No message received
+17:48:51.25 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No message received
+17:48:54.91 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No message received
+17:48:58.57 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No message received
+17:49:02.20 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No message received
+17:49:05.77 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No message received
+17:49:09.34 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No message received
+17:49:12.92 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No message received
+17:49:16.45 ERROR | utils.mailUtils:get_msg:30 | beverley.marmo.609@hotmail.com | No message received
+17:51:48.46 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+17:51:52.62 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+17:51:56.66 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+17:52:00.77 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+17:52:04.55 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+17:52:08.66 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+17:52:12.81 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+17:52:16.83 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+17:52:20.57 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+17:52:24.73 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+17:52:28.80 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+17:52:32.92 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+17:52:37.05 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+17:52:41.12 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+17:52:45.20 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+17:52:49.40 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+17:52:53.59 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+17:52:57.66 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+17:53:01.73 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+17:53:05.85 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+17:55:35.86 ERROR | utils.mailUtils:get_msg:29 | coldren.lesley@hotmail.com | Unexpected error when getting code: cannot access local variable 'msg' where it is not associated with a value
+17:55:39.74 ERROR | utils.mailUtils:get_msg:29 | coldren.lesley@hotmail.com | Unexpected error when getting code: cannot access local variable 'msg' where it is not associated with a value
+17:56:42.85 ERROR | velodata:__bypass_turnstile_captcha:106 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:56:43.00 ERROR | velodata:__bypass_turnstile_captcha:106 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:56:43.15 ERROR | velodata:__bypass_turnstile_captcha:106 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:56:43.29 ERROR | velodata:__bypass_turnstile_captcha:106 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:56:43.44 ERROR | velodata:__bypass_turnstile_captcha:106 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:56:43.60 ERROR | velodata:__bypass_turnstile_captcha:106 | 0 Failed to solve captcha! Please put your API key in data/captcha/__init__.py
+17:56:43.60 WARNING | autoreger:start:58 | No accounts registered :(
+18:00:54.66 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+18:00:58.72 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+18:01:02.74 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+18:01:06.61 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+18:01:10.55 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+18:01:14.47 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+18:01:18.51 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+18:01:22.94 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+18:01:27.23 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+18:01:31.41 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+18:01:35.26 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+18:01:39.45 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+18:01:43.50 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+18:01:47.27 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+18:01:51.09 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+18:01:54.87 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+18:01:59.10 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+18:02:24.17 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+18:02:28.08 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+18:02:32.16 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+18:02:35.97 ERROR | utils.mailUtils:get_msg:30 | coldren.lesley@hotmail.com | No message received
+18:03:14.14 ERROR | utils.mailUtils:get_msg:30 | gerva.trena318@hotmail.com | No message received
+18:03:18.33 ERROR | utils.mailUtils:get_msg:30 | gerva.trena318@hotmail.com | No message received
+18:03:22.56 ERROR | utils.mailUtils:get_msg:30 | gerva.trena318@hotmail.com | No message received
+18:03:26.68 ERROR | utils.mailUtils:get_msg:30 | gerva.trena318@hotmail.com | No message received
+18:03:30.77 ERROR | utils.mailUtils:get_msg:30 | gerva.trena318@hotmail.com | No message received
+18:03:34.67 ERROR | utils.mailUtils:get_msg:30 | gerva.trena318@hotmail.com | No message received
+18:03:38.62 ERROR | utils.mailUtils:get_msg:30 | gerva.trena318@hotmail.com | No message received
+18:03:42.64 ERROR | utils.mailUtils:get_msg:30 | gerva.trena318@hotmail.com | No message received
+18:03:46.68 ERROR | utils.mailUtils:get_msg:30 | gerva.trena318@hotmail.com | No message received
+18:03:50.80 ERROR | utils.mailUtils:get_msg:30 | gerva.trena318@hotmail.com | No message received
+18:03:54.98 ERROR | utils.mailUtils:get_msg:30 | gerva.trena318@hotmail.com | No message received
+18:03:58.73 ERROR | utils.mailUtils:get_msg:30 | gerva.trena318@hotmail.com | No message received
+18:04:02.73 ERROR | utils.mailUtils:get_msg:30 | gerva.trena318@hotmail.com | No message received
+18:04:06.85 ERROR | utils.mailUtils:get_msg:30 | gerva.trena318@hotmail.com | No message received
+18:04:10.90 ERROR | utils.mailUtils:get_msg:30 | gerva.trena318@hotmail.com | No message received
+18:04:14.93 ERROR | utils.mailUtils:get_msg:30 | gerva.trena318@hotmail.com | No message received
+18:04:19.08 ERROR | utils.mailUtils:get_msg:30 | gerva.trena318@hotmail.com | No message received
+18:04:22.85 ERROR | utils.mailUtils:get_msg:30 | gerva.trena318@hotmail.com | No message received
+18:04:26.62 ERROR | utils.mailUtils:get_msg:30 | gerva.trena318@hotmail.com | No message received
+18:04:30.47 ERROR | utils.mailUtils:get_msg:30 | gerva.trena318@hotmail.com | No message received
+18:04:57.64 SUCCESS | utils.mailUtils:get_msg:25 | gerva.trena318@hotmail.com | Successfully received msg: Verify your email to use Velo
+18:04:57.69 ERROR | utils.mailUtils:get_msg:30 | gerva.trena318@hotmail.com | No message received
+18:07:20.68 SUCCESS | utils.mailUtils:get_msg:25 | gerva.trena318@hotmail.com | Successfully received msg: Verify your email to use Velo
+18:07:20.72 ERROR | autoreger:register:73 | Error 'MailMessage' object has no attribute 'split'
+18:07:20.73 ERROR | velodata:logs_fail:92 | Failed gerva.trena318@hotmail.com 
+18:08:47.93 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:08:52.16 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:08:56.45 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:09:00.77 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:09:05.16 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:09:09.16 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:09:14.84 ERROR | utils.mailUtils:get_msg:28 | bohangenia77@hotmail.com | Unexpected error when getting code: AND expects params
+18:09:19.13 ERROR | utils.mailUtils:get_msg:28 | bohangenia77@hotmail.com | Unexpected error when getting code: AND expects params
+18:09:56.30 SUCCESS | utils.mailUtils:get_msg:24 | bohangenia77@hotmail.com | Successfully received msg: Arkham Email Verification
+18:10:26.43 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:10:30.63 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:10:42.11 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:10:46.48 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:10:50.71 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:10:55.12 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:10:59.17 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:11:06.89 SUCCESS | utils.mailUtils:get_msg:25 | bohangenia77@hotmail.com | Successfully received msg: Get more with Microsoft 365
+18:11:27.41 SUCCESS | utils.mailUtils:get_msg:25 | bohangenia77@hotmail.com | Successfully received msg: Arkham Email Verification
+18:11:41.15 SUCCESS | utils.mailUtils:get_msg:25 | bohangenia77@hotmail.com | Successfully received msg: Arkham Email Verification
+18:12:03.21 SUCCESS | utils.mailUtils:get_msg:24 | bohangenia77@hotmail.com | Successfully received msg: Arkham Email Verification
+18:12:32.47 SUCCESS | utils.mailUtils:get_msg:24 | bohangenia77@hotmail.com | Successfully received msg: Arkham Email Verification
+18:12:32.62 SUCCESS | utils.mailUtils:get_msg:24 | bohangenia77@hotmail.com | Successfully received msg: Get more with Microsoft 365
+18:12:32.68 ERROR | utils.mailUtils:get_msg:29 | bohangenia77@hotmail.com | No message received
+18:12:37.17 SUCCESS | utils.mailUtils:get_msg:24 | bohangenia77@hotmail.com | Successfully received msg: Arkham Email Verification
+18:12:37.31 SUCCESS | utils.mailUtils:get_msg:24 | bohangenia77@hotmail.com | Successfully received msg: Get more with Microsoft 365
+18:12:37.38 ERROR | utils.mailUtils:get_msg:29 | bohangenia77@hotmail.com | No message received
+18:12:41.70 SUCCESS | utils.mailUtils:get_msg:24 | bohangenia77@hotmail.com | Successfully received msg: Arkham Email Verification
+18:12:41.85 SUCCESS | utils.mailUtils:get_msg:24 | bohangenia77@hotmail.com | Successfully received msg: Get more with Microsoft 365
+18:12:41.91 ERROR | utils.mailUtils:get_msg:29 | bohangenia77@hotmail.com | No message received
+18:12:45.87 SUCCESS | utils.mailUtils:get_msg:24 | bohangenia77@hotmail.com | Successfully received msg: Arkham Email Verification
+18:12:46.01 SUCCESS | utils.mailUtils:get_msg:24 | bohangenia77@hotmail.com | Successfully received msg: Get more with Microsoft 365
+18:12:46.08 ERROR | utils.mailUtils:get_msg:29 | bohangenia77@hotmail.com | No message received
+18:13:23.91 SUCCESS | utils.mailUtils:get_msg:24 | bohangenia77@hotmail.com | Successfully received msg: Arkham Email Verification
+18:13:24.12 SUCCESS | utils.mailUtils:get_msg:24 | bohangenia77@hotmail.com | Successfully received msg: Get more with Microsoft 365
+18:13:24.18 ERROR | utils.mailUtils:get_msg:29 | bohangenia77@hotmail.com | No message received
+18:13:38.26 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:14:48.83 SUCCESS | utils.mailUtils:get_msg:25 | gerva.trena318@hotmail.com | Successfully received msg: Verify your email to use Velo
+18:14:48.88 ERROR | utils.mailUtils:get_msg:30 | gerva.trena318@hotmail.com | No message received
+18:15:32.98 SUCCESS | utils.mailUtils:get_msg:25 | gerva.trena318@hotmail.com | Successfully received msg: Verify your email to use Velo
+18:15:33.03 ERROR | utils.mailUtils:get_msg:30 | gerva.trena318@hotmail.com | No message received
+18:17:08.14 SUCCESS | utils.mailUtils:get_msg:25 | gerva.trena318@hotmail.com | Successfully received msg: Verify your email to use Velo
+18:17:08.19 ERROR | utils.mailUtils:get_msg:30 | gerva.trena318@hotmail.com | No message received
+18:17:12.33 SUCCESS | utils.mailUtils:get_msg:25 | gerva.trena318@hotmail.com | Successfully received msg: Verify your email to use Velo
+18:17:12.37 ERROR | utils.mailUtils:get_msg:30 | gerva.trena318@hotmail.com | No message received
+18:19:39.61 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:19:43.54 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:19:47.43 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:19:51.26 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:19:55.22 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:19:59.30 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:20:03.71 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:20:07.74 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:20:11.83 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:20:16.00 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:20:20.36 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:20:24.60 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:20:28.56 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:20:32.59 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:20:36.99 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:20:41.23 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:20:45.29 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:20:49.33 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:20:53.67 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:20:58.10 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:21:06.71 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:21:11.05 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:21:14.88 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:21:19.27 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:21:23.10 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:21:27.71 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:21:31.63 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:21:35.59 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:21:39.47 ERROR | utils.mailUtils:get_msg:30 | bohangenia77@hotmail.com | No message received
+18:22:43.11 ERROR | utils.mailUtils:get_msg:30 | b_jaymie84@hotmail.com | No message received
+18:27:14.09 SUCCESS | velodata:logs:84 | Register hutzel_maryanna_71@hotmail.com
+18:27:17.03 ERROR | velodata:logs_fail:89 | Failed b_jaymie84@hotmail.com 
+18:27:36.33 SUCCESS | velodata:logs:84 | Register breitb.thalia@hotmail.com
+18:27:36.33 SUCCESS | autoreger:start:56 | Successfully registered 2 accounts :)
+18:39:51.96 ERROR | utils.mailUtils:get_msg:29 | makst.erof@gmail.com | Unexpected error when getting code: Response status "OK" expected, but "NO" received. Data: [b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)']
+18:39:55.50 ERROR | utils.mailUtils:get_msg:29 | makst.erof@gmail.com | Unexpected error when getting code: Response status "OK" expected, but "NO" received. Data: [b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)']
+18:39:59.00 ERROR | utils.mailUtils:get_msg:29 | makst.erof@gmail.com | Unexpected error when getting code: Response status "OK" expected, but "NO" received. Data: [b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)']
+18:40:02.55 ERROR | utils.mailUtils:get_msg:29 | makst.erof@gmail.com | Unexpected error when getting code: Response status "OK" expected, but "NO" received. Data: [b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)']
+18:40:03.96 ERROR | utils.mailUtils:get_msg:29 | makst.e.rof@gmail.com | Unexpected error when getting code: Response status "OK" expected, but "NO" received. Data: [b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)']
+18:40:06.07 ERROR | utils.mailUtils:get_msg:29 | makst.erof@gmail.com | Unexpected error when getting code: Response status "OK" expected, but "NO" received. Data: [b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)']
+18:40:07.49 ERROR | utils.mailUtils:get_msg:29 | makst.e.rof@gmail.com | Unexpected error when getting code: Response status "OK" expected, but "NO" received. Data: [b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)']
+18:40:09.66 ERROR | utils.mailUtils:get_msg:29 | makst.erof@gmail.com | Unexpected error when getting code: Response status "OK" expected, but "NO" received. Data: [b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)']
+18:40:11.00 ERROR | utils.mailUtils:get_msg:29 | makst.e.rof@gmail.com | Unexpected error when getting code: Response status "OK" expected, but "NO" received. Data: [b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)']
+18:40:13.35 ERROR | utils.mailUtils:get_msg:29 | makst.erof@gmail.com | Unexpected error when getting code: Response status "OK" expected, but "NO" received. Data: [b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)']
+18:40:14.60 ERROR | utils.mailUtils:get_msg:29 | makst.e.rof@gmail.com | Unexpected error when getting code: Response status "OK" expected, but "NO" received. Data: [b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)']
+18:41:21.22 ERROR | autoreger:register:74 | Error HTTPSConnectionPool(host='velodata.app', port=443): Max retries exceeded with url: /api/a/register (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 502 Proxy Error (the selected relay is offline or busy processing other threads)')))
+18:41:21.22 ERROR | velodata:logs_fail:94 | Failed makst.e.rof@gmail.com 
+18:41:52.39 ERROR | velodata:logs_fail:94 | Failed makst.erof@gmail.com 
+18:41:53.19 ERROR | autoreger:register:74 | Error HTTPSConnectionPool(host='velodata.app', port=443): Max retries exceeded with url: /api/a/verify?ref=xeq6ok (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 502 Proxy Error (the selected relay is offline or busy processing other threads)')))
+18:41:53.19 SUCCESS | velodata:logs:89 | Register makst.er.of@gmail.com
+18:42:17.65 SUCCESS | velodata:logs:89 | Register makst.ero.f@gmail.com
+18:42:17.65 SUCCESS | autoreger:start:58 | Successfully registered 2 accounts :)
