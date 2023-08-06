@@ -45,9 +45,9 @@ class AutoReger:
 
         VeloData.referral = referral_link.split('/')[-1]
 
-        self.custom_user_delay = float(input("Delay in seconds: "))
-
         threads = int(input("Enter amount of threads: "))
+
+        self.custom_user_delay = float(input("Delay in seconds: "))
 
         accounts = self.get_accounts()
 
